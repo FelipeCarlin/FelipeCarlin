@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on a [Game Engine][gameengine]!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Work on more projects.
 - ⚡ Fun fact: I am terrible at drawing and I love to play bass! 
 
 ### Connect with me:
