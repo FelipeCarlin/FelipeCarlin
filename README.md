@@ -19,10 +19,10 @@
 
 
 
-<a href="https://github.com/FelipeCarlin/FelipeCarlin">
+<a href="https://github.com/FelipeCarlin?tab=repositories">
   <img align="left" alt="Felipe's Repos Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeCarlin&show_icons=true&hide_border=true&hide_rank=true" />
 </a>
-<a href="https://github.com/FelipeCarlin/FelipeCarlin">
+<a href="https://github.com/FelipeCarlin?tab=repositories">
   <img align="left" alt="Felipe's Top Lenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarlin&layout=compact" />
 </a>
 
