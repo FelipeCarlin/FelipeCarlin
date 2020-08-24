@@ -16,8 +16,15 @@
 
 ---
 
-<img align="left" alt="Felipe's Repos Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeCarlin&show_icons=true&hide_border=true&hide_rank=true" />
-<img align="right" alt="Felipe's Top Lenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarlin&layout=compact" />
+
+
+
+<a href="https://github.com/FelipeCarlin/FelipeCarlin">
+  <img align="left" alt="Felipe's Repos Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeCarlin&show_icons=true&hide_border=true&hide_rank=true" />
+</a>
+<a href="https://github.com/FelipeCarlin/FelipeCarlin">
+  <img align="left" alt="Felipe's Top Lenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarlin&layout=compact" />
+</a>
 
 [AstroidsRepo]: https://github.com/FelipeCarlin/Astroids
 [website]: https://felipecarlin.github.io/
