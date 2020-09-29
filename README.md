@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a [Astroids clone][AstroidsRepo]!
+- 🔭 I’m currently working on a [Game][Sechuran]!
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Work on more projects.
 - ⚡ Fun fact: I am terrible at drawing and I love to play bass! 
@@ -26,6 +26,7 @@
   <img align="left" alt="Felipe's Top Lenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarlin&layout=compact" />
 </a>
 
+[Sechuran]: https://github.com/FelipeCarlin/Sechuran
 [AstroidsRepo]: https://github.com/FelipeCarlin/Astroids
 [website]: https://felipecarlin.github.io/
 [twitter]: https://twitter.com/FelipeCarlin7
