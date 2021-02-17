@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a [Game][Sechuran]!
+- 🔭 I’m currently working on a [Game]!
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Work on more projects.
 - ⚡ Fun fact: I am terrible at drawing and I love to play bass! 
